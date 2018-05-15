@@ -1,1 +1,1 @@
-worker: node credentials.json
+worker: npm index.js
